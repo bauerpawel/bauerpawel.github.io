@@ -1,0 +1,30 @@
+﻿        _..._
+      .'     '.      _
+     /    .-""-\   _/ \
+   .-|   /:.   |  |   |
+   |  \  |:.   /.-'-./
+   | .-'-;:__.'    =/
+   .'=  *=|     _.='
+  /   _.  |    ;
+ ;-.-'|    \   |
+/   | \    _\  _\
+\__/'._;.  ==' ==\
+         \    \   |
+         /    /   /
+         /-._/-._/
+         \   `\  \
+          `-._/._/
+		  
+/* TEAM */
+Paweł Bauer (@BauerPawel on Twitter)
+
+/* THANKS */
+My Wife :)
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: jQuery
+Software: Notepad++
+
+/* NOTE */
+Built with love by Paweł Bauer.
